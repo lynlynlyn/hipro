@@ -1,6 +1,6 @@
-#  Hierarchical Prompt Learning for Multi-Task Learning
+#  HiPro: Hierarchical Prompt Learning for Multi-Task Learning
 
-This is a PyTorch implementation of the paper [Hierarchical Prompt Learning for Multi-Task Learning (ECCV 2022)](https://github.com/lynlynlyn/hipro).
+This is a PyTorch implementation of the paper [Hierarchical Prompt Learning for Multi-Task Learning (CVPR 2023)](https://github.com/lynlynlyn/hipro).
 
 ```
 @inproceedings{Liu2022Self,
