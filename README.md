@@ -1,5 +1,10 @@
 #  HiPro: Hierarchical Prompt Learning for Multi-Task Learning
 
+## Updates
+- **30.05.2023**: We will release the code as soon as possible (~few months). 
+
+
+
 This is a PyTorch implementation of the CVPR 2023 paper [Hierarchical Prompt Learning for Multi-Task Learning (HiPro)](https://github.com/lynlynlyn/hipro).
 
 ```
